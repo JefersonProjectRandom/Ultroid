@@ -1,1 +1,1 @@
-web: python -m ultroid
+web: python -m pyUltroid
