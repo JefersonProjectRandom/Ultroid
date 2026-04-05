@@ -1,0 +1,12 @@
+{
+  "name": "ultroid",
+  "version": "1.0.0",
+  "description": "Ultroid userbot",
+  "scripts": {
+    "start": "python3 -m ultroid",
+    "build": "pip3 install -r requirements.txt"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
